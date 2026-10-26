@@ -1,3 +1,4 @@
-# lazarus
-oggio ho capito comke mettere i miei lavori su git hub
-e per adesso non ce nulla che non ho capito
+mi chiamo mahammed moussa
+faccio la seconda informatica
+ho 15 anni
+questa è la mia prima repository di github
